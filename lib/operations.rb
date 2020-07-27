@@ -6,6 +6,9 @@ def unsafe?(speed)
      elsif >= 60
      puts true
      
+     elsif 41-59
+     puts false
+     
      
 
 end
